@@ -1,0 +1,13 @@
+C:\Users\MadCoyote\source\repos\AnthoExoDecorator1\AnthoExoDecorator1\bin\Debug\netcoreapp3.1\AnthoExoDecorator1.exe
+C:\Users\MadCoyote\source\repos\AnthoExoDecorator1\AnthoExoDecorator1\bin\Debug\netcoreapp3.1\AnthoExoDecorator1.deps.json
+C:\Users\MadCoyote\source\repos\AnthoExoDecorator1\AnthoExoDecorator1\bin\Debug\netcoreapp3.1\AnthoExoDecorator1.runtimeconfig.json
+C:\Users\MadCoyote\source\repos\AnthoExoDecorator1\AnthoExoDecorator1\bin\Debug\netcoreapp3.1\AnthoExoDecorator1.runtimeconfig.dev.json
+C:\Users\MadCoyote\source\repos\AnthoExoDecorator1\AnthoExoDecorator1\bin\Debug\netcoreapp3.1\AnthoExoDecorator1.dll
+C:\Users\MadCoyote\source\repos\AnthoExoDecorator1\AnthoExoDecorator1\bin\Debug\netcoreapp3.1\AnthoExoDecorator1.pdb
+C:\Users\MadCoyote\source\repos\AnthoExoDecorator1\AnthoExoDecorator1\obj\Debug\netcoreapp3.1\AnthoExoDecorator1.csprojAssemblyReference.cache
+C:\Users\MadCoyote\source\repos\AnthoExoDecorator1\AnthoExoDecorator1\obj\Debug\netcoreapp3.1\AnthoExoDecorator1.csproj.CoreCompileInputs.cache
+C:\Users\MadCoyote\source\repos\AnthoExoDecorator1\AnthoExoDecorator1\obj\Debug\netcoreapp3.1\AnthoExoDecorator1.AssemblyInfoInputs.cache
+C:\Users\MadCoyote\source\repos\AnthoExoDecorator1\AnthoExoDecorator1\obj\Debug\netcoreapp3.1\AnthoExoDecorator1.AssemblyInfo.cs
+C:\Users\MadCoyote\source\repos\AnthoExoDecorator1\AnthoExoDecorator1\obj\Debug\netcoreapp3.1\AnthoExoDecorator1.dll
+C:\Users\MadCoyote\source\repos\AnthoExoDecorator1\AnthoExoDecorator1\obj\Debug\netcoreapp3.1\AnthoExoDecorator1.pdb
+C:\Users\MadCoyote\source\repos\AnthoExoDecorator1\AnthoExoDecorator1\obj\Debug\netcoreapp3.1\AnthoExoDecorator1.genruntimeconfig.cache
